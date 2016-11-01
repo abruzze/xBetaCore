@@ -1,0 +1,22 @@
+{
+  "name": "xbeta-core",
+  "version": "0.1.0",
+  "description": "BetaX Core",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abruzze/xBetaCore.git"
+  },
+  "keywords": [
+    "BetaX"
+  ],
+  "author": "Luca Abruzzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abruzze/xBetaCore/issues"
+  },
+  "homepage": "https://github.com/abruzze/xBetaCore#readme"
+}
